@@ -1,0 +1,4 @@
+outs:
+- md5: ba1088fe5c4a9182075f3ce136037968
+  size: 177925424
+  path: MaskRCNN-10.onnx

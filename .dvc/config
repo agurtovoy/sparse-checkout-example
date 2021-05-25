@@ -1,0 +1,4 @@
+[core]
+    remote = s3-sandbox
+['remote "s3-sandbox"']
+    url = s3://sdc-ai-private-sandbox/dvc/
